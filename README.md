@@ -1,2 +1,2 @@
-# isTouching_bounceOff-C-21
-isTouching_BounceOff
+# collisionAlgorithm
+Algorithm to detect collision between two objects
